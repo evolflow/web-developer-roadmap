@@ -19,3 +19,22 @@ My learning roadmap to become a Web Developer by January 1, 2027.
 ### Next session
 
 Build a booking form independently in `index.html`.
+
+## Coding Session 86 — HTML Form Practice
+
+**Date:** August 21, 2026
+**Duration:** 50 minutes
+
+### What I practiced
+
+- Enabled Emmet expansion with the Tab key
+- Created an HTML booking form independently
+- Connected labels and inputs using `for` and `id`
+- Used text, email, and number input types
+- Added `name`, `required`, `min`, and `max` attributes
+- Created a submit button
+- Tested HTML form validation in the browser
+
+### Next session
+
+Learn CSS fundamentals and begin styling the form.
