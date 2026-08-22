@@ -38,3 +38,22 @@ Build a booking form independently in `index.html`.
 ### Next session
 
 Learn CSS fundamentals and begin styling the form.
+
+## Coding Session 87 — CSS Fundamentals
+
+**Date:** August 22, 2026
+**Duration:** 50 minutes
+
+### What I learned
+
+- Connected an external CSS file to HTML
+- Learned selectors, properties, and values
+- Used element and class selectors
+- Practiced the CSS box model
+- Centered a form with margin auto
+- Used padding, max-width, and display
+- Fixed input overflow with box-sizing
+
+### Next session
+
+Continue styling the form with borders, spacing, focus states, and button styles.
