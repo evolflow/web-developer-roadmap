@@ -57,3 +57,23 @@ Learn CSS fundamentals and begin styling the form.
 ### Next session
 
 Continue styling the form with borders, spacing, focus states, and button styles.
+
+## Coding Session 88 — CSS Form States
+
+**Date:** August 23, 2026
+**Duration:** 45 minutes
+
+### What I learned
+
+- Styled input borders and rounded corners
+- Added spacing between form fields
+- Created a visible input focus state
+- Learned the difference between border and outline
+- Styled the submit button
+- Added hover and cursor states
+- Created a smooth background-color transition
+- Improved keyboard accessibility
+
+### Next session
+
+Learn CSS cascade, inheritance, and specificity.
