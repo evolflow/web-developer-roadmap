@@ -12,6 +12,7 @@ body {
 label {
   display: block;
   margin-bottom: 6px;
+  font-weight: 600;
 }
 input {
   width: 100%;
@@ -22,7 +23,7 @@ input {
   margin-bottom: 16px;
 }
 input:focus {
-  outline: 2px solid #2563eb;
+  outline: 2px solid #17274b;
   border-color: #2563eb;
 }
 
@@ -38,4 +39,20 @@ button {
 }
 button:hover {
   background-color: #1d4ed8;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  color: #1f2937;
+}
+
+.booking-form h1 {
+  text-align: center;
+  margin-top: 0;
+  font-size: 24px;
+}
+
+input,
+button {
+  font: inherit;
 }

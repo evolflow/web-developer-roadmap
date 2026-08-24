@@ -77,3 +77,23 @@ Continue styling the form with borders, spacing, focus states, and button styles
 ### Next session
 
 Learn CSS cascade, inheritance, and specificity.
+
+## Coding Session 89 — CSS Cascade and Specificity
+
+**Date:** August 24, 2026
+**Duration:** 60 minutes
+
+### What I learned
+
+- Learned how the CSS cascade chooses a winning rule
+- Compared element, class, and ID specificity
+- Learned how CSS inheritance works
+- Compared direct and inherited styles
+- Used DevTools to inspect overridden properties
+- Learned why unnecessary !important should be avoided
+- Practiced descendant and grouped selectors
+- Scoped CSS styles to the booking form
+
+### Next session
+
+Learn Flexbox fundamentals and create flexible layouts.
