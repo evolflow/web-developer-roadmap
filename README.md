@@ -97,3 +97,24 @@ Learn CSS cascade, inheritance, and specificity.
 ### Next session
 
 Learn Flexbox fundamentals and create flexible layouts.
+
+## Coding Session 90 — Flexbox Fundamentals
+
+**Date:** August 25, 2026
+**Duration:** 40 minutes
+
+### What I learned
+
+- Created a flex container and flex items
+- Used display flex on a parent element
+- Learned main and cross axes
+- Changed layout direction with flex-direction
+- Used justify-content and align-items
+- Added spacing with gap
+- Compared center, space-between, and space-evenly
+- Created nested flex containers
+- Distributed free space with flex-grow
+
+### Next session
+
+Learn flex-wrap, flex-basis, flex-shrink, and responsive Flexbox layouts.

@@ -27,7 +27,7 @@ input:focus {
   border-color: #2563eb;
 }
 
-button {
+.booking-form button {
   width: 100%;
   padding: 12px;
   background-color: #2563eb;
@@ -37,7 +37,7 @@ button {
   cursor: pointer;
   transition: background-color 0.2s ease;
 }
-button:hover {
+.booking-form button:hover {
   background-color: #1d4ed8;
 }
 
@@ -55,4 +55,24 @@ body {
 input,
 button {
   font: inherit;
+}
+
+.flex-demo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  height: 200px;
+}
+
+.box {
+  width: 60px;
+  height: 60px;
+  background-color: #17274b;
+  color: blanchedalmond;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  flex-grow: 1;
 }
